@@ -4,8 +4,7 @@ Airport Cabs NumPy Project
 
 ![Python](https://github.com/LikithReddy128/-Airport-Cabs-NumPy-Project/blob/main/airpotcab.ipynb)
 ![Data set](https://github.com/LikithReddy128/-Airport-Cabs-NumPy-Project/blob/main/nyc_taxis.csv)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 
 **Author:** Pakinati Likith Reddy · B.Tech EEE (2026) · Aspiring Data Analyst
 **Full technical write-up:** see [`DOCUMENTATION.md`](DOCUMENTATION.md)
