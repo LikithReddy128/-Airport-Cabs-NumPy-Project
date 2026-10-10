@@ -3,7 +3,7 @@ Airport Cabs NumPy Project
 > Exploratory analysis of **89,560 NYC airport taxi trips** using only **NumPy** — array shapes, slicing, boolean masking and vectorised arithmetic.
 
 ![Python](https://github.com/LikithReddy128/-Airport-Cabs-NumPy-Project/blob/main/airpotcab.ipynb)
-![NumPy](https://img.shields.io/badge/NumPy-Data%20Analysis-013243)
+![NumPy](https://github.com/LikithReddy128/-Airport-Cabs-NumPy-Project/blob/main/nyc_taxis.csv)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
